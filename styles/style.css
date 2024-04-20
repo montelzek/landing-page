@@ -168,3 +168,11 @@ a, .header-content-left-text {
     width: 150px;
     font-size: 15px;
 }
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 40px 0;
+}
