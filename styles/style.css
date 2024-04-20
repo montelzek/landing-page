@@ -69,6 +69,8 @@ a, .header-content-left-text {
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .section-two {
@@ -79,16 +81,17 @@ a, .header-content-left-text {
     display: flex;
     justify-content: center;
     gap: 52px;
+    padding-bottom: 120px;
 }
 
 .image img {
-    width: 200px;
-    height: 200px;
+    width: 170px;
+    height: 170px;
     border: 5px solid #3882f6;
     border-radius: 8px;
     padding-left: 0;
 }
 
 .image {
-    max-width: 200px;
+    max-width: 170px;
 }
