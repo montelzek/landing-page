@@ -95,3 +95,20 @@ a, .header-content-left-text {
 .image {
     max-width: 170px;
 }
+
+.section-three {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 50;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-size: 22px;
+    font-weight: bold;
+    color: #1f2937;
+}
