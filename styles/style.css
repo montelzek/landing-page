@@ -65,3 +65,9 @@ a, .header-content-left-text {
     display: flex;
 }
 
+.information-text {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
