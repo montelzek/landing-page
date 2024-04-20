@@ -28,6 +28,7 @@ button {
     border-radius: 8px;
     width: 100px;
     margin-top: 10px;
+    font-size: 15px;
 }
 
 a, .header-content-left-text {
@@ -126,3 +127,44 @@ a, .header-content-left-text {
     padding-top: 15px;
 }
 
+.section-four {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 0;
+}
+
+.blue-container {
+    box-sizing: border-box;
+    background: #3882f6;
+    width: 1068.8px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    gap: 185px;
+    padding: 40px 100px;
+    align-items: center;
+}
+
+.blue-container-heading {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.blue-container-smaller-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.blue-container-button button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid white;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    width: 150px;
+    font-size: 15px;
+}
